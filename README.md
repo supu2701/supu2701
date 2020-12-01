@@ -1,3 +1,26 @@
-# My Profile
+# Hello 👋
+###### Myself Shreyashi Kumari, a Sophomore at National Institute of Technology, Patna. 
 
-My Profile
+Inquisistive Learner is the term which defines me. 
+### 😄 Pronouns
+She/Her
+
+### 😳How to reach me?
+You can join me on [LinkedIn](https://www.linkedin.com/in/shreyashi-kumari-7bab121a1/) or can mail me @ shreyashikumari2019@gmail.com
+
+### For interesting projects💥 and open source contributions, do explore my repositories👍
+
+## Happy Developing💯
+
+<!--
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
