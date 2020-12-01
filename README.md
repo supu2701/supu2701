@@ -1,7 +1,6 @@
 # Hello 👋
-###### Myself Shreyashi Kumari, a Sophomore at National Institute of Technology, Patna. 
-
-Inquisistive Learner is the term which defines me. 
+#### Myself Shreyashi Kumari, a Sophomore at National Institute of Technology, Patna. 
+#### Inquisistive Learner is the term which defines me. 
 ### 😄 Pronouns
 She/Her
 
