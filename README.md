@@ -9,8 +9,8 @@ You can join me on [LinkedIn](https://www.linkedin.com/in/shreyashi-kumari-7bab1
 
 ### For interesting projects💥 and open source contributions, do explore my repositories👍
 
-<img src="https://github-readme-stats.vercel.app/api?username=supu2701&show_icons=true&theme=nightowl&custom_title=Shreyashi's+GitHub+Stats" height="180px">
-<img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supu2701&layout=compact&theme=nightowl">
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=supu2701&show_icons=true&theme=nightowl&custom_title=Shreyashi's+GitHub+Stats" height="180px"></a>
+<a href="#"><img height= "180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supu2701&layout=compact&theme=nightowl"></a>
 
 ## Happy Developing💯
 
