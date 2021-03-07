@@ -9,6 +9,9 @@ You can join me on [LinkedIn](https://www.linkedin.com/in/shreyashi-kumari-7bab1
 
 ### For interesting projects💥 and open source contributions, do explore my repositories👍
 
+[![Shreyashi's GitHub stats](https://github-readme-stats.vercel.app/api?username=supu2701&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+<img height= "195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supu2701&layout=compact&theme=nightowl">
+
 ## Happy Developing💯
 
 <!--
@@ -23,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img height="250px" src="https://firebasestorage.googleapis.com/v0/b/dashatar-dev.appspot.com/o/dashatars%2FRGFzaGF0YXJfRGV2ZWxvcGVyX05ldXRyYWxfY29sb3JfUE1fc2hhZG93.png?alt=media">
