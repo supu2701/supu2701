@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 
 
 <img height="250px" src="https://firebasestorage.googleapis.com/v0/b/dashatar-dev.appspot.com/o/dashatars%2FRGFzaGF0YXJfRGV2ZWxvcGVyX05ldXRyYWxfY29sb3JfUE1fc2hhZG93.png?alt=media">
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+</p>
