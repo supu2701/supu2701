@@ -1,6 +1,7 @@
 # Hello 👋
 #### Myself Shreyashi Kumari, a Sophomore at National Institute of Technology, Patna. 
-#### Inquisitive Learner is the term which defines me. 
+## I am an enthusiastic web developer .👩‍💻 and an inquisitive learner.
+### I am currently working on some open source projets and looking for collaborations towards development of interesting web-apps.
 ### 😄 Pronouns
 She/Her
 
