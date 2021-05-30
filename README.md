@@ -1,7 +1,7 @@
 # Hello 👋
 #### Myself Shreyashi Kumari, a Sophomore at National Institute of Technology, Patna. 
-## I am an enthusiastic web developer .👩‍💻 and an inquisitive learner.
-### I am currently working on some open source projets and looking for collaborations towards development of interesting web-apps.
+## I am an inquisitive learner 👩‍💻.
+### I am currently working on some open source projets and looking for collaborations towards development of more interesting real world applications.
 ### 😄 Pronouns
 She/Her
 
