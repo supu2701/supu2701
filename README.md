@@ -1,9 +1,14 @@
 # Hello 👋
-#### Myself Shreyashi Kumari, a Sophomore at National Institute of Technology, Patna. 
+#### Myself Shreyashi Kumari, a final year undergraduate at National Institute of Technology, Patna. 
 ## I am an inquisitive learner 👩‍💻.
 ### I am currently working on some open source projets and looking for collaborations towards development of more interesting real world applications.
 ### 😄 Pronouns
 She/Her
+
+### Work experinces
+▶ Software Development Engineer- Intern at Parth Universal (May 2022- June 2022)
+▶ Upcoming GTE at PhonePe
+
 
 ### 😳How to reach me?
 You can join me on [LinkedIn](https://www.linkedin.com/in/shreyashi-kumari-7bab121a1/) or can mail me @ shreyashikumari2019@gmail.com
